@@ -64,6 +64,13 @@
     left: 20%;
 }
 
+.inset-image-preview {
+    position: absolute;
+    width: full;
+    height: full;
+    border: 2px solid red;
+}
+
 .social-button {
     width: 55px;
     height: 55px;
